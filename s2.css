@@ -1,0 +1,42 @@
+body{
+	text-align: center;
+	background-color: #F0F0F0;
+}
+
+.content{
+	padding-top: 30px;
+}
+
+.title{
+	padding: 50px 0 50px 0;
+	font-size: 45px;
+}
+
+.describe{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.form{
+	background: url('./imgs/world_map.png') no-repeat top;
+	padding: 50px 0 50px 0;
+	margin-top: 20px;
+}
+
+.label{
+	padding-top: 150px;
+}
+
+.form button,input{
+	border: gray solid 1px;
+	height: 40px;
+	width: 333px;
+	margin-top: 10px;
+	font-size: 17px;
+}
+
+.btn button{
+	background-color: #03083D;
+	color: white;
+	font-weight: bold;
+}
